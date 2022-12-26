@@ -6,7 +6,7 @@ We use printf() function with %d format specifier to display the value of an int
 Similarly %c is used to display character, %f for float variable, %s for string variable, %lf for double and %x for hexadecimal variable.
 To generate a newline,we use “\n” in C printf() statement.
 
-In this project I,
+On this project I,
 - handle file descriptors to output characters,
 - handle decimal to hexadecimal conversion,
 - handle [variadic functions](https://www.geeksforgeeks.org/variadic-functions-in-c/)
