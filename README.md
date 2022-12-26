@@ -9,4 +9,4 @@ To generate a newline,we use “\n” in C printf() statement.
 In this project I,
 - handle file descriptors to output characters,
 - handle decimal to hexadecimal conversion,
-- handle ([variadic functions](https://www.geeksforgeeks.org/variadic-functions-in-c/))
+- handle [variadic functions](https://www.geeksforgeeks.org/variadic-functions-in-c/)
